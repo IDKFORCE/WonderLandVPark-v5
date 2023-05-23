@@ -6,7 +6,7 @@ THANK YOU FOR DOWNLOADING WonderLandV ThemePark v5 !!!
 
 ```My Discord```
 
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 
 ![Image description](https://cdn.discordapp.com/attachments/1021700112776437760/1053686419182333962/image.png)
