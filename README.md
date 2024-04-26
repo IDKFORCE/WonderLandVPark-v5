@@ -8,10 +8,14 @@ THANK YOU FOR DOWNLOADING WonderLandV ThemePark v5 !!!
 
 - [Discord](https://discord.gg/UFng7DWnWP)
 
+![Image description](https://github.com/IDKFORCE/WonderLandVPark-v5/assets/71199348/bb676c8b-0b39-4d90-964d-2bbe86558eba)
 
-![Image description](https://cdn.discordapp.com/attachments/1021700112776437760/1053686419182333962/image.png)
-![Image description](https://cdn.discordapp.com/attachments/1021700112776437760/1053686572714819604/image.png)
-![Image description](https://cdn.discordapp.com/attachments/1021700112776437760/1053686774569894079/image.png)
+![Image description](https://github.com/IDKFORCE/WonderLandVPark-v5/assets/71199348/6ba8bcc3-e58a-4f05-ba37-25036429d1ab)
+)
+![Image description](https://github.com/IDKFORCE/WonderLandVPark-v5/assets/71199348/acc1b9f5-ab96-4e69-83a8-0a82611c9c7d)
+)
+![Image description](https://github.com/IDKFORCE/WonderLandVPark-v5/assets/71199348/e38f122c-0446-415c-b82c-aa6be4b306ee)
+
 
 ## Changelog:
 - Version 2.0:
